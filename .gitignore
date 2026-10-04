@@ -3,3 +3,5 @@
 __pycache__/
 .DS_Store
 uv.lock
+# Lösungen gehören nicht ins Repo
+*_loesung.ipynb
