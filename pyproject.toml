@@ -1,0 +1,13 @@
+[project]
+name = "ann2"
+version = "0.1.0"
+description = "ANN-2 Begleit-Notebooks, Wintersemester 2026/27"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=6.29",
+    "matplotlib>=3.9",
+    "numpy>=2.0",
+    "tiktoken>=0.7.0",
+    "torch>=2.5.0",
+]
