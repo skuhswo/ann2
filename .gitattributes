@@ -1,0 +1,4 @@
+# Zeilenenden: Windows-Skript unverändert mit CRLF, Shell-Skripte immer mit LF
+*.bat -text
+*.sh text eol=lf
+*.command text eol=lf
